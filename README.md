@@ -86,6 +86,7 @@ Production-grade fintech data warehouse built independently — not a tutorial p
 
 > 📸 * <img width="1332" height="767" alt="powerbi-risk-fraud-decline" src="https://github.com/user-attachments/assets/9a846358-643d-414c-85b1-a36fd199e5fb" /> *
 
+> Live Demo * https://www.loom.com/share/c1e346fb640f40858677304dffaae75e *
 ---
 
 ### 🤖 [AI Weekly Business Report Automation](https://github.com/vahnshi-vs/ai-weekly-business-report-automation)
