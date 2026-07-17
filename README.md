@@ -70,7 +70,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏦 [FinSight — Fintech Transaction Analytics Warehouse](https://github.com/vahnshi-vs/FinSight)
+### 🏦 [FinSight — Fintech Transaction Analytics Warehouse](https://github.com/vahnshi-vs/finsight-fintech-analytics)
 > `Python` `SQL` `PostgreSQL` `Power BI` `Streamlit` `Gemini API`
 
 Production-grade fintech data warehouse built independently — not a tutorial project.
@@ -88,7 +88,7 @@ Production-grade fintech data warehouse built independently — not a tutorial p
 
 ---
 
-### 🤖 [AI Weekly Business Report Automation](https://github.com/vahnshi-vs/ai-report-automation)
+### 🤖 [AI Weekly Business Report Automation](https://github.com/vahnshi-vs/ai-weekly-business-report-automation)
 > `Python` `Google Sheets API` `Gemini API` `Windows Task Scheduler`
 
 Replaced a fully manual weekly reporting cycle with a 7-step automated pipeline.
@@ -100,7 +100,7 @@ Replaced a fully manual weekly reporting cycle with a 7-step automated pipeline.
 
 ---
 
-### 🎯 [Customer Segmentation & Growth Analytics](https://github.com/vahnshi-vs/customer-segmentation)
+### 🎯 [Customer Segmentation & Growth Analytics](https://github.com/vahnshi-vs/Marketing-Analytics-Customer-Segmentation)
 > `Python` `Scikit-learn` `K-Means` `Pandas`
 
 K-Means clustering on **10,000+ customer records** → 4 actionable behavioral cohorts.
