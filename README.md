@@ -84,7 +84,7 @@ Production-grade fintech data warehouse built independently — not a tutorial p
 | **NL Interface** | Streamlit + Gemini API so non-technical users can query in plain English |
 | **Scale** | 50,000+ UPI/fintech transactions |
 
-> 📸 *[Screenshot of Power BI dashboard — add image here]*
+> 📸 * <img width="1332" height="767" alt="powerbi-risk-fraud-decline" src="https://github.com/user-attachments/assets/9a846358-643d-414c-85b1-a36fd199e5fb" /> *
 
 ---
 
