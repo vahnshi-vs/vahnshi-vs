@@ -125,7 +125,7 @@ K-Means clustering on **10,000+ customer records** → 4 actionable behavioral c
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vahnshi-vs&theme=tokyonight&hide_border=false&layout=compact&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vahnshi-vs&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800)](https://github.com/vahnshi-vs)
 
 </div>
 
