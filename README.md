@@ -99,6 +99,10 @@ Replaced a fully manual weekly reporting cycle with a 7-step automated pipeline.
 - **Output:** Scheduled HTML email delivery via Windows Task Scheduler
 - **Production-ready:** `.env` credential management + JSON-structured outputs
 
+  >Email Report Output
+
+<img width="1600" height="732" alt="email_report" src="https://github.com/user-attachments/assets/53c40463-6e17-49b8-9184-cda0934bae69" />
+
 ---
 
 ### 🎯 [Customer Segmentation & Growth Analytics](https://github.com/vahnshi-vs/Marketing-Analytics-Customer-Segmentation)
