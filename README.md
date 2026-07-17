@@ -1,26 +1,28 @@
 <div align="center">
 
-# Vanshika Sharma
+<h1>Vanshika Sharma</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+MIS+Analyst+%7C+Business+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+PostgreSQL;Fintech+Warehouse+Builder+%7C+IBM+Certified;Turning+messy+data+into+decisions+that+move+business)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+MIS+Analyst+%7C+Business+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+PostgreSQL;Fintech+Warehouse+Builder+%7C+IBM+Certified;50K%2B+Transactions+Analyzed+%7C+MBA+Data+Science+%26+Finance)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vahnshi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vahnshi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vahnshi-vs)
-![Profile Views](https://komarev.com/ghpvc/?username=vahnshi-vs&color=blueviolet&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vahnshi-vs)
+![Profile Views](https://komarev.com/ghpvc/?username=vahnshi-vs&color=blueviolet&style=flat-square&label=Profile+Views)
+
+**🟢 Open to Work — Data Analyst · MIS Analyst · Business Analyst · Delhi NCR**
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
-- 🏗️ Built **FinSight** — a production PostgreSQL fintech warehouse processing **50,000+ transactions** with cohort analysis, CLV modeling, fraud detection & a Gemini-powered NL query interface
-- 💼 **2.5+ years** cross-functional experience across HR, Operations & Business Development before moving full-time into analytics
+- 🏗️ Built **[FinSight](https://github.com/vahnshi-vs/FinSight)** — a production PostgreSQL fintech warehouse processing **50,000+ transactions** with cohort retention, CLV modeling, fraud detection, and a Gemini-powered natural language query interface
+- 🤖 Engineered a **[fully automated weekly reporting pipeline](https://github.com/vahnshi-vs/ai-report-automation)** — Sheets ingestion → Gemini AI commentary → scheduled HTML email delivery, replacing a manual process end-to-end
+- 💼 **2.5+ years** across HR, Operations, and Business Development — I don't just build dashboards, I understand why a business needs them
 - 🎓 **MBA in Data Science & Finance** @ Manipal University Jaipur *(2025–2027)* | **BBA 87.5%** @ GGSIPU Delhi
-- 📜 IBM Data Analyst Professional Certificate | Deloitte Analytics Job Simulation (Forage)
-- 🎯 Targeting: **Data Analyst · MIS Analyst · Business Analyst** roles in Delhi NCR
-- ⚡ I don't just build reports — I understand why a business needs them
+- 📜 IBM Data Analyst Professional Certificate (2026) | Deloitte Analytics Simulation (Forage)
+- ⚡ Background in business before analytics means I translate numbers into decisions, not just charts
 
 ---
 
@@ -61,65 +63,64 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 [FinSight — Fintech Transaction Analytics Warehouse](https://github.com/vahnshi-vs)
+### 🏦 [FinSight — Fintech Transaction Analytics Warehouse](https://github.com/vahnshi-vs/FinSight)
 > `Python` `SQL` `PostgreSQL` `Power BI` `Streamlit` `Gemini API`
 
-Production-grade PostgreSQL data warehouse modeling **50,000+ UPI/fintech transactions**.
+Production-grade fintech data warehouse built independently — not a tutorial project.
 
-| What | Detail |
+| Component | What I Built |
 |---|---|
-| Architecture | Star schema with full ETL pipeline |
-| SQL Layer | 17 queries + 10 views across 6 domains |
-| Analytical Domains | Cohort retention, CLV, fraud detection, funnel dropoff, revenue leakage, UPI decline |
-| Dashboard | 4-page Power BI (DAX) — revenue, fraud, merchant KPIs |
-| NL Interface | Streamlit app + Gemini API for non-technical business users |
+| **Architecture** | PostgreSQL star schema with full ETL pipeline |
+| **SQL Layer** | 17 analytical queries + 10 views across 6 domains |
+| **Analytical Domains** | Cohort retention · CLV · Fraud detection · Funnel dropoff · Revenue leakage · UPI decline |
+| **Dashboard** | 4-page Power BI (DAX) — revenue, fraud, merchant KPIs |
+| **NL Interface** | Streamlit + Gemini API so non-technical users can query in plain English |
+| **Scale** | 50,000+ UPI/fintech transactions |
+
+> 📸 *[Screenshot of Power BI dashboard — add image here]*
 
 ---
 
-### 🤖 [AI Weekly Business Report Automation](https://github.com/vahnshi-vs)
+### 🤖 [AI Weekly Business Report Automation](https://github.com/vahnshi-vs/ai-report-automation)
 > `Python` `Google Sheets API` `Gemini API` `Windows Task Scheduler`
 
-7-step automated pipeline replacing a fully manual weekly reporting cycle.
-- Sheets ingestion → Gemini AI commentary → Scheduled HTML email delivery
-- `.env` credential management + JSON-structured outputs for production repeatability
+Replaced a fully manual weekly reporting cycle with a 7-step automated pipeline.
+
+- **Input:** Google Sheets data ingestion
+- **Processing:** Gemini-powered AI commentary generation
+- **Output:** Scheduled HTML email delivery via Windows Task Scheduler
+- **Production-ready:** `.env` credential management + JSON-structured outputs
 
 ---
 
-### 🎯 [Customer Segmentation & Growth Analytics](https://github.com/vahnshi-vs)
+### 🎯 [Customer Segmentation & Growth Analytics](https://github.com/vahnshi-vs/customer-segmentation)
 > `Python` `Scikit-learn` `K-Means` `Pandas`
 
-K-Means clustering on **10,000+ customer records** → 4 behavioral cohorts (high-value, at-risk, budget, new).
-- EDA: correlation analysis, outlier detection, feature engineering
-- Translated cluster profiles into targeted marketing recommendations → **projected 20% lift in campaign efficiency**
+K-Means clustering on **10,000+ customer records** → 4 actionable behavioral cohorts.
+
+| Cohort | Profile | Action |
+|---|---|---|
+| High-Value | High income, high spend, recent | Loyalty programs |
+| At-Risk | Previously active, declining | Re-engagement campaigns |
+| Budget | Low spend, price-sensitive | Discount offers |
+| New | Recent first purchase | Onboarding flows |
+
+**Outcome:** Segmentation model projected to lift campaign efficiency by **20%**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vahnshi-vs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=vahnshi-vs&theme=tokyonight&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahnshi-vs&theme=tokyonight&hide_border=false&layout=compact" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=vahnshi-vs&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vahnshi-vs&theme=tokyonight&hide_border=false&layout=compact&langs_count=8)
 
 </div>
 
@@ -127,20 +128,30 @@ K-Means clustering on **10,000+ customer records** → 4 behavioral cohorts (hig
 
 ## 📜 Certifications
 
-| Certification | Issuer | Year |
+| Certification | Issuer | Date |
 |---|---|---|
-| IBM Data Analyst Professional Certificate | IBM | 2026 |
-| Introduction to Generative AI in Finance | IBM | 2026 |
-| Generative AI for Data Analysts | IBM | 2026 |
-| Databases & SQL for Data Science with Python | IBM | 2025 |
-| Python for Data Science, AI & Development | IBM | 2025 |
-| Data Visualization & Dashboards with Excel & Cognos | IBM | 2025 |
-| Data Analytics Job Simulation | Deloitte Australia via Forage | 2025 |
+| IBM Data Analyst Professional Certificate | IBM | May 2026 |
+| Introduction to Generative AI in Finance | IBM | Jul 2026 |
+| Generative AI for Data Analysts | IBM | May 2026 |
+| Databases & SQL for Data Science with Python | IBM | Oct 2025 |
+| Python for Data Science, AI & Development | IBM | Aug 2025 |
+| Data Visualization & Dashboards with Excel & Cognos | IBM | May 2025 |
+| Data Analytics Job Simulation | Deloitte Australia (Forage) | Nov 2025 |
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **Data Analyst · MIS Analyst · Business Analyst** roles in **Delhi NCR** — open to full-time positions and short-term analytics projects.
+
+📧 **vahnshi@gmail.com** | 💼 **[LinkedIn](https://linkedin.com/in/vahnshi)** | 📍 **Delhi, India**
+
+> *I built a fintech warehouse from scratch to prove I could work with real, messy data at scale — not just clean Kaggle datasets. That's the kind of work I want to keep doing.*
 
 ---
 
 <div align="center">
 
-*"I don't just build reports — I build the infrastructure that makes them trustworthy."*
+*If you're building something data-driven, I'd like to talk.*
 
 </div>
